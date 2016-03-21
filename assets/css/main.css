@@ -1639,7 +1639,7 @@
 
 	#banner-wrapper {
 		position: relative;
-		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/book_bench.gif");
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
 		background-size: auto, auto, cover;
@@ -1657,7 +1657,7 @@
 	#banner {
 		position: relative;
 		background-color: rgba(21, 28, 23, 0.85);
-		background-image: 
+		background-image: url("images/overlay.png"), url("images/highlight.png");
 		background-position: top left, center center;
 		background-size: auto, 100% 250%;
 		background-repeat: repeat, no-repeat;
