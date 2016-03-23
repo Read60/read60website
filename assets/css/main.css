@@ -1639,11 +1639,7 @@
 
 	#banner-wrapper {
 		position: relative;
-<<<<<<< HEAD
 		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/book_bench.gif");
-=======
-		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/book_sunset.gif");
->>>>>>> origin/master
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
 		background-size: auto, auto, cover;
@@ -1999,7 +1995,7 @@
 					}
 
 					#nav li.active a, #nav li.active span {
-						background: #C1CAC5;
+						background: #FC0022;
 						color: #fff;
 					}
 
