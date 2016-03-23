@@ -1286,7 +1286,7 @@
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #c1cac5;
+			background: #FC0022;
 		}
 
 			input[type="button"].alt:hover,
@@ -1639,11 +1639,9 @@
 
 	#banner-wrapper {
 		position: relative;
-<<<<<<< HEAD
+
 		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/book_bench.gif");
-=======
-		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/book_sunset.gif");
->>>>>>> origin/master
+
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
 		background-size: auto, auto, cover;
